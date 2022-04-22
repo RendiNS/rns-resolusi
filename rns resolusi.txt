@@ -5,4 +5,3 @@ Lalu ketiknya di bagian Edit new file, ketik yang mau diketik.
 Kalau sudah selesai, scroll ke bawah bukan save tapi commit.   
 Bagian create new file isikan Membuat file resolusi.txt 
 Kalau mau jelasin secara detail perubahannya isi dibagian Add on optional description.
-Centang Commit directly to the main branch (kalau mau commit langsung ke master branch) 
